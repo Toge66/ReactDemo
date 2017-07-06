@@ -1,0 +1,6 @@
+demo*/.idea
+demo*/node_modules/
+demo*/build/
+demo*/npm-debug.log
+demo*/.DS_Store
+.DS_Store
