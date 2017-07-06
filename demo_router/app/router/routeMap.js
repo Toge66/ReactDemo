@@ -8,8 +8,9 @@ import Detail from '../containers/Detail'
 import NotFound from '../containers/NotFound'
 
 export default class RouteMap extends React.PureComponent {
-  updateHandle() {
+  updateHandle(e) {
     console.log('router 跳转')
+    console.log(e)
   }
 
   render() {
