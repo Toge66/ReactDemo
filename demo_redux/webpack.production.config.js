@@ -35,7 +35,7 @@ module.exports = {
   ],
 
   plugins : [
-    new webpack.BannerPlugin("React router first test"),
+    new webpack.BannerPlugin("React-redux  first test"),
 
     new HtmlWebpackPlugin({
       template : __dirname + '/app/index.tmpl.html'
